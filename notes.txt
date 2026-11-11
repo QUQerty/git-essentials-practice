@@ -1,0 +1,2 @@
+Git Essentials practice file.
+Line A: original content.
