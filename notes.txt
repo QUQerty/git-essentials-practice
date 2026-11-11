@@ -1,2 +1,3 @@
 Git Essentials practice file.
 Line A: original content.
+Line B: added from the cloned copy.
